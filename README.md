@@ -1,7 +1,8 @@
 # JONATHAN MATHEUS
-**Endereço:** Maceió - AL  
-**WhatsApp:** 82 9 8829 - 0728  
-**GitHub:** [https://github.com/jonathan-matheus](https://github.com/jonathan-matheus)  
+**Endereço:** Maceió - AL<br>
+**WhatsApp:** [82 9 8829 - 0728](https://api.whatsapp.com/send/?phone=5582988290728)<br>
+**Site:** [pragmaitco.dev](https://pragmatico.dev/)<br>
+**GitHub:** [https://github.com/jonathan-matheus](https://github.com/jonathan-matheus)<br> 
 **LinkedIn:** [https://www.linkedin.com/in/jonathan-matheus/](https://www.linkedin.com/in/jonathan-matheus/)
 
 ## Habilidades

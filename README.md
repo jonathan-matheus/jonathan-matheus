@@ -29,6 +29,9 @@ projeto.
 **F2J Soluções | Web Design** - Novembro de 2022 - Presente
 - Projeto de design de interface, usando Figma
 - Desenvolvimento de sites, e e-commerces ultilizando WordPress, Woocommerce, e elementor.
+- Criação de ambientes de desenvolvimento (WordPress) 
+- Migração de websites 
+- Configuração de domínio e hospedagem
 - Treinamento de clientes, em relação ao uso de seus sites ou e-commerces, 
 presencial e por video chamadas
 

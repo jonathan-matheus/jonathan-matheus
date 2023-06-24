@@ -8,7 +8,7 @@
 **BeHance:** [https://www.behance.net/johnwm](https://www.behance.net/johnwm)
 
 ## Sobre
-Sou um designer de interface especializado em UI Design, com habilidades avançadas em ferramentas como WordPress, Woocommerce, Elementor e Figma. 
+Tenho grande interesse em explorar a intersecção entre tecnologia e arte, afim de criar experiências inovadoras e impactantes. 
 
 ## Projetos
 ### Pong

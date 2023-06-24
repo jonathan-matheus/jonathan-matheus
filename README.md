@@ -7,18 +7,7 @@
 **BeHance:** [https://www.behance.net/johnwm](https://www.behance.net/johnwm)
 
 ## Sobre
-Sou um designer de interface especializado em UI Design, com habilidades 
-avançadas em ferramentas como WordPress, Woocommerce, Elementor e Figma. 
-Atualmente, trabalho na F2J Soluções como Web Designer, onde tenho a 
-oportunidade de criar projetos de design de interface incríveis usando o Figma. 
-
-Além disso, também sou responsável pelo desenvolvimento de sites e e-commerces, utilizando WordPress, Woocommerce e Elementor. 
-
-Tenho experiência em treinar clientes no uso de seus sites e e-commerces, tanto pessoalmente quanto por meio de videochamadas. 
-
-Se você procura um profissional apaixonado por design de interface e com 
-expertise em WordPress e UI Design, estou pronto para contribuir com o seu 
-projeto.
+Sou um designer de interface especializado em UI Design, com habilidades avançadas em ferramentas como WordPress, Woocommerce, Elementor e Figma. 
 
 ## Projetos
 ### Pong
@@ -34,13 +23,7 @@ projeto.
 Outros projetos, podem ser encontrados no meu [GitHub](https://github.com/jonathan-matheus), e também no [BeHance](https://www.behance.net/johnwm)   
 
 ## Habilidades
-- UI Design
-
-## Ferramentas
-- WordPress | Woocommerce | Elementor | Figma
-
-## Tecnologias
-- P5.JS 
+P5.JS | UI Design | Figma | WordPress | Woocommerce | 
 
 ## Experiência Profissional
 **F2J Soluções | Web Design** - Novembro de 2022 - Presente

@@ -1,7 +1,8 @@
 # JONATHAN MATHEUS
-**Endereço:** Maceió - AL<br>
-**WhatsApp:** [82 9 8829 - 0728](https://api.whatsapp.com/send/?phone=5582988290728)<br>
-**Site:** [pragmaitco.dev](https://pragmatico.dev/)<br>
+**Endereço:** Maceió - AL &ensp; **WhatsApp:** [82 9 8829 - 0728](https://api.whatsapp.com/send/?phone=5582988290728) &ensp; **Site:** [pragmaitco.dev](https://pragmatico.dev/)
+
+---
+
 **GitHub:** [https://github.com/jonathan-matheus](https://github.com/jonathan-matheus)<br> 
 **LinkedIn:** [https://www.linkedin.com/in/jonathan-matheus/](https://www.linkedin.com/in/jonathan-matheus/) <br>
 **BeHance:** [https://www.behance.net/johnwm](https://www.behance.net/johnwm)
@@ -28,12 +29,9 @@ P5.JS | UI Design | Figma | WordPress | Woocommerce |
 ## Experiência Profissional
 **F2J Soluções | Web Design** - Novembro de 2022 - Presente
 - Projeto de design de interface, usando Figma
-- Desenvolvimento de sites, e e-commerces ultilizando WordPress, Woocommerce, e elementor.
-- Criação de ambientes de desenvolvimento (WordPress) 
-- Migração de websites 
-- Configuração de domínio e hospedagem
-- Treinamento de clientes, em relação ao uso de seus sites ou e-commerces, 
-presencial e por video chamadas
+- Desenvolvimento de sites, e e-commerces ultilizando WordPress, Woocommerce
+- Deploy de sites, e e-commerces, utilizando o WordPress
+- Treinamento de clientes, em relação ao uso de seus sites ou e-commerces
 
 ## Formação Acadêmica
 **Ciências da Computação - Universidade Tiradentes (UNIT)** - 3º Período

@@ -8,7 +8,7 @@
 **BeHance:** [https://www.behance.net/johnwm](https://www.behance.net/johnwm)
 
 ## Sobre
-Tenho grande interesse em explorar a intersecção entre tecnologia e arte, afim de criar experiências inovadoras e impactantes. 
+Tenho grande interesse em explorar a intersecção entre tecnologia e arte, de modo a criar experiências inovadoras e impactantes. 
 
 ## Projetos
 ### Pong

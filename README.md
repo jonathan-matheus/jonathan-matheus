@@ -27,11 +27,11 @@ Outros projetos, podem ser encontrados no meu [GitHub](https://github.com/jonath
 P5.JS | UI Design | Figma | WordPress | Woocommerce | 
 
 ## Experiência Profissional
-**F2J Soluções | Web Design** - Novembro de 2022 - Presente
-- Projeto de design de interface, usando Figma
-- Desenvolvimento de sites, e e-commerces ultilizando WordPress, Woocommerce
-- Deploy de sites, e e-commerces, utilizando o WordPress
-- Treinamento de clientes, em relação ao uso de seus sites ou e-commerces
+**Web Design · F2J Soluções · Presencial** - Novembro de 2022 - Presente <br><br>
+• Projeto de design de interface, usando Figma <br>
+• Desenvolvimento de sites, e e-commerces ultilizando WordPress, Woocommerce <br>
+• Deploy de sites, e e-commerces, utilizando o WordPress <br>
+• Treinamento de clientes, em relação ao uso de seus sites ou e-commerces
 
 ## Formação Acadêmica
 **Ciências da Computação - Universidade Tiradentes (UNIT)** - 3º Período

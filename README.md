@@ -11,6 +11,11 @@
 Tenho grande interesse em explorar a intersecção entre tecnologia e arte, de modo a criar experiências inovadoras e impactantes. 
 
 ## Projetos
+### Alura Intercambios
+- Descrição: Tema wordpress feito durante o curso de wordpress da alura
+- Tecnologias: PHP, WordPress, HTML, CSS, JS
+- Link (GitHub): [https://github.com/jonathan-matheus/alura_intercambios](https://github.com/jonathan-matheus/alura_intercambios)
+
 ### Pong
 - Descrição: Uma versão do clássico pong.
 - Tecnologias: P5.JS

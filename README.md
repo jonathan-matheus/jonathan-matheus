@@ -47,8 +47,14 @@ PHP | HTML | CSS | JS | UI Design | Figma | WordPress | Woocommerce |
 
 ## Formação Acadêmica
 
-- **Ciências da Computação** - Descomplica - 1º Trimestre
+### Ciências da Computação
+
+- Faculdade Descomplica, EAD
+- 1º Trimestre
 
 ## Cursos
 
-- **Criação de Temas Responsivos com WordPress** - Prof. Marcelo Xavier - Em adamento
+### Criação de Temas Responsivos com WordPress
+
+- Prof. Marcelo Xavier - Online
+- Em andamento

@@ -14,19 +14,19 @@ Tenho grande interesse em explorar a intersecção entre tecnologia e arte, de m
 
 ## Projetos
 
-## GUIA ABRASEL
+### GUIA ABRASEL
 
 - Descrição: Tema WordPress criado para ABRASEL (Associação Brasileira de Bares e Restaurantes)
 - Tecnologias: PHP, WordPress, HTML, CSS, JS, MySQL
 - Link (WebSite): [https://guiaabraselal.com.br/](https://guiaabraselal.com.br/)
 
-## SENAC MARANHÃO
+### SENAC MARANHÃO
 
 - Descrição: Site WordPress criado para o SENAC (Serviço Nacional de Aprendizagem Comercial) de Maranhão
 - Tecnologias: PHP, WordPress (Elementor), MySQL
 - Link (WebSite): [https://ma.senac.br/](https://ma.senac.br/)
 
-### Alura Intercambios
+### ALURA INTERCAMBIO
 
 - Descrição: Tema wordpress feito durante o curso de wordpress da alura
 - Tecnologias: PHP, WordPress, HTML, CSS, JS, MySQL
@@ -47,4 +47,8 @@ PHP | HTML | CSS | JS | UI Design | Figma | WordPress | Woocommerce |
 
 ## Formação Acadêmica
 
-**Ciências da Computação - Descomplica** - 1º Trimestre
+**Ciências da Computação** - Descomplica - 1º Trimestre
+
+## Cursos
+
+- **Criação de Temas Responsivos com WordPress** - Prof. Marcelo Xavier - Em adamento

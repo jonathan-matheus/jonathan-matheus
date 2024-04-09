@@ -47,7 +47,7 @@ PHP | HTML | CSS | JS | UI Design | Figma | WordPress | Woocommerce |
 
 ## Formação Acadêmica
 
-**Ciências da Computação** - Descomplica - 1º Trimestre
+- **Ciências da Computação** - Descomplica - 1º Trimestre
 
 ## Cursos
 

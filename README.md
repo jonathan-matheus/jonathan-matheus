@@ -54,7 +54,7 @@ PHP | HTML | CSS | JS | UI Design | Figma | WordPress | Woocommerce |
 
 ## Cursos
 
-### Criação de Temas Responsivos com WordPress
+### Criação de Temas Responsivos com WordPress - (2024)
 
 - Prof. Marcelo Xavier - Online
-- Em andamento
+- Neste curso aprendi a criar temas WordPress do zero usando HTML, CSS, JS e PHP e diversas APIs nativas.

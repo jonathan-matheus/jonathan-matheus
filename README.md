@@ -38,7 +38,10 @@ PHP | HTML | CSS | JS | UI Design | Figma | WordPress | Woocommerce |
 
 ## Experiência Profissional
 
-**Web Design · F2J Soluções · Presencial** - Novembro de 2022 - Presente
+**Fullstack PHP/Wordpress - Mesha** - Híbrido - jun de 2024 - o momento
+- Desenvolvimento de temas WordPress
+
+**Web Design - F2J Soluções** - Presencial - nov de 2022 - jun de 2024 - 1 ano 8 meses
 
 - Projeto de design de interface, usando Figma
 - Desenvolvimento de sites, e e-commerces ultilizando WordPress, Woocommerce

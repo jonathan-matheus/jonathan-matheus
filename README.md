@@ -5,7 +5,7 @@
 ---
 
 **GitHub:** [https://github.com/jonathan-matheus](https://github.com/jonathan-matheus)<br>
-**LinkedIn:** [https://www.linkedin.com/in/jonathan-matheus/](https://www.linkedin.com/in/jonathan-matheus/) <br>
+**LinkedIn:** [https://www.linkedin.com/in/jonathanmatheussilva/](https://www.linkedin.com/in/jonathanmatheussilva/) <br>
 **BeHance:** [https://www.behance.net/johnwm](https://www.behance.net/johnwm)
 
 ## Sobre

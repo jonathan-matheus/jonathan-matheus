@@ -57,7 +57,11 @@ PHP | HTML | CSS | JS | UI Design | Figma | WordPress | Woocommerce |
 
 ## Cursos
 
+### WordPress Rest API - (2024)
+- Origamid - Online
+- Durante o curso, aprimorei minhas habilidades com a API REST do WordPress, adquirindo experiência em integrações, manipulação de dados e criação de endpoints personalizados para atender a diferentes demandas de projetos.
+
 ### Criação de Temas Responsivos com WordPress - (2024)
 
 - Prof. Marcelo Xavier - Online
-- Neste curso aprendi a criar temas WordPress do zero usando HTML, CSS, JS e PHP e diversas APIs nativas.
+- Neste curso, aprendi a desenvolver temas WordPress do zero, utilizando HTML, CSS, JavaScript e PHP, além de explorar várias APIs nativas do WordPress.

@@ -35,7 +35,7 @@ Tenho grande interesse em explorar a intersecção entre tecnologia e arte, de m
 
 ## Habilidades
 
-PHP | HTML | CSS | JS | UI Design | Figma | WordPress | Woocommerce |
+PHP/WordPress/Woocommerce  | HTML/CSS/JS | UI Design/Figma |
 
 ## Experiência Profissional
 

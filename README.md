@@ -41,6 +41,7 @@ PHP | HTML | CSS | JS | UI Design | Figma | WordPress | Woocommerce |
 
 **Fullstack PHP/Wordpress - Mesha** - Híbrido - jun de 2024 - o momento
 - Desenvolvimento de temas WordPress
+- Suporte ao cliente no uso do WordPress
 
 **Web Design - F2J Soluções** - Presencial - nov de 2022 - jun de 2024 - 1 ano 8 meses
 
